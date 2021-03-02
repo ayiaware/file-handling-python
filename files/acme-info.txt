@@ -1,0 +1,26 @@
+ACME Tech Co.
+Company Information
+
+OVERVIEW
+--------
+Formerly: Kitchen Sink Inc. (1923–2010)
+Type: Public
+Symbol: ACME
+Stock Price: USD $10.24
+Revenue: GBP £3.141 billion
+Founded: 18 May 1923
+Founder: Guy Incognito Sr.
+Retail Locations: 42
+CEO: Guy Incognito IV
+No. Employees: 9123
+
+NOTABLE PRODUCTS
+----------------
+ACME Note (11.6 million sold)
+ACME Phone (21.1 million sold)
+ACME Smart Coffee Mug (6.7 million sold)
+ACME TabPC (15.0 million sold)
+
+DECRIPTION
+----------
+ACME Tech Co. is a longstanding multinational company with headquarters in Aberdeen, Scotland. The company is ranked as the No. 7 most valuable contibuters to Scotland's economy.
